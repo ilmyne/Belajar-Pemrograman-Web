@@ -1,4 +1,7 @@
 Belajar Pemrograman Web Menggunakan Github
+- Mengenal terlebih dahulu github itu sendiri
+- Melakukan konfigurasi 
 - Membuat file baru 
 - Mendownload project di Github sebagai referensi belajar
 - Mengaplikasikan source code pada project pribadi
+- Revisi dengan git commit
