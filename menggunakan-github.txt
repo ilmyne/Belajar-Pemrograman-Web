@@ -1,7 +1,10 @@
 Belajar Pemrograman Web Menggunakan Github
+- Mengenal terlebih dahulu github itu sendiri
+- Melakukan konfigurasi 
 - Membuat file baru 
 - Mengaplikasikan source code pada project pribadi
 - Menambahkan beberapa isi di file yang sudah di fork
 - Mengedit isi file yang sudah di fork
 - Mencoba menyelesaikan UTS mengenai Github pada Pemrograman web
 - Mencoba-coba Fitur Github
+- Revisi dengan git commit
